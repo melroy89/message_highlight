@@ -25,7 +25,7 @@ $config['plugins'] = [
 ];
 ```
 
-And see the available config options in [config.inc.php-dist](./config.inc.php-dist) file.
+And see the available config options in [config.inc.php-dist](./config.inc.php-dist) file. However, you should also be able to set these configs via the Roundcube -> `Settings` -> `Message Highlights`.
 
 ## Contact
 
