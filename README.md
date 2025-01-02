@@ -6,6 +6,25 @@ With this plugin you can colorize the message index rows based on specific crite
 
 Go to your Roundcube settings area and select rules to highlight emails in your mailview.
 
+## Install
+
+Use composer from the Roundcube root directory:
+
+```sh
+composer require melroy89/message_highlight:dev-master
+```
+
+_NOTE:_ Answer **N** when composer ask you about plugin activation.
+
+Activate the plugin by editing the `HOME_RC/config/config.inc.php` file:
+
+```php
+$config['plugins'] = [
+        // Other plugins...
+        'message_highlight',
+];
+```
+
 ## Contact
 
 Author: Melroy van den Berg (melroy@melroy.org)
