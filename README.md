@@ -1,6 +1,6 @@
 ## message_highlight
 
-With this plugin you can colorize the message index rows based on specific criteria like sender, recipient and subject. This repository is a fork and continueation of the orginal work by [Cor Bosman](https://github.com/corbosman/message_highlight).
+With this plugin you can colorize the message index rows based on specific criteria like sender, recipient and subject. This repository is a fork and continuation of the orginal work by [Cor Bosman](https://github.com/corbosman/message_highlight).
 
 ## Features
 
