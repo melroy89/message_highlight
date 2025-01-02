@@ -11,7 +11,7 @@ Go to your Roundcube settings area and select rules to highlight emails in your 
 Use composer from the Roundcube root directory:
 
 ```sh
-composer require melroy89/message_highlight:dev-master
+composer require melroy89/message_highlight:master
 ```
 
 _NOTE:_ Answer **N** when composer ask you about plugin activation.
