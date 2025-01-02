@@ -25,6 +25,8 @@ $config['plugins'] = [
 ];
 ```
 
+And see the available config options in [config.inc.php-dist](./config.inc.php-dist) file.
+
 ## Contact
 
 Author: Melroy van den Berg (melroy@melroy.org)
