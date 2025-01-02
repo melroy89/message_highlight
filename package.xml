@@ -12,7 +12,7 @@
 	</lead>
 	<uri>https://github.com/corbosman/message_highlight</uri>
 	<version>
-		<release>3.0</release>
+		<release>4.0</release>
 	</version>
 	<license uri="http://www.gnu.org/licenses/gpl-2.0.html">GNU GPLv2</license>
 </package>
